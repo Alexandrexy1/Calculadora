@@ -1,3 +1,4 @@
 # Calculadora
  
-teste
+Criando uma calculadora com função construtora e a biblioteca math.
+
