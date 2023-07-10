@@ -69,5 +69,6 @@ Calculadora.prototype.btnParaDisplay = function (value) {
     this.display.focus();
     this.display.classList.remove('invalid-input');
 };
+
 const calculadora = new Calculadora();
 calculadora.inicia();
