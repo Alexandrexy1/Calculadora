@@ -1,7 +1,5 @@
 function Calculadora() {
     this.display = document.querySelector('.display');
-
-
 }
 
 Calculadora.prototype.inicia = function () {
